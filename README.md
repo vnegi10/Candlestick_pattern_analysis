@@ -4,7 +4,7 @@ A lightweight Python toolkit for fetching cryptocurrency price data from CoinGec
 ## Overview
 The notebook demonstrates how to:
 
-1. Retrieve OHLC (Open‑High‑Low‑Close) data for any CoinGecko asset in any fiat or crypto currency.
+1. Retrieve OHLC (Open‑High‑Low‑Close) data for any CoinGecko asset in any fiat or crypto currency
 2. Compute common technical indicators:
     - Simple Moving Average (SMA)
     - Exponential Moving Average (EMA)
@@ -12,12 +12,12 @@ The notebook demonstrates how to:
     - Relative Strength Index (RSI)
     - Moving Average Convergence Divergence (MACD)
     - Bullish Engulfing pattern
-3. Visualise the data and indicators using Plotly candlestick charts with multiple sub‑plots.
+3. Visualize the data and indicators using Plotly candlestick charts with multiple sub‑plots
 
 The code is written in pure Python and relies on the following libraries:
     - `pandas` – data manipulation
     - `requests` – HTTP requests to CoinGecko
-    - `plotly` – interactive visualisation
+    - `plotly` – interactive visualization
     - `plotly.subplots` – for multi‑panel charts
 
 ## Features
@@ -121,9 +121,9 @@ Feel free to fork the repository, create a feature branch, and submit a pull req
 
 Please adhere to the following guidelines:
 
-- Keep functions small and focused.
-- Add docstrings and type hints where appropriate.
-- Update the README if you add new indicators or visualizations.
+- Keep functions small and focused
+- Add docstrings and type hints where appropriate
+- Update the README if you add new indicators or visualizations
 
 ## License
 
