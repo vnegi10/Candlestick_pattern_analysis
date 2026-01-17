@@ -6,20 +6,19 @@ The notebook demonstrates how to:
 
 1. Retrieve OHLC (Open‑High‑Low‑Close) data for any CoinGecko asset in any fiat or crypto currency.
 2. Compute common technical indicators:
-- Simple Moving Average (SMA)
-- Exponential Moving Average (EMA)
-- Bollinger Bands
-- Relative Strength Index (RSI)
-- Moving Average Convergence Divergence (MACD)
-- Bullish Engulfing pattern
+    - Simple Moving Average (SMA)
+    - Exponential Moving Average (EMA)
+    - Bollinger Bands
+    - Relative Strength Index (RSI)
+    - Moving Average Convergence Divergence (MACD)
+    - Bullish Engulfing pattern
 3. Visualise the data and indicators using Plotly candlestick charts with multiple sub‑plots.
 
 The code is written in pure Python and relies on the following libraries:
-
-- `pandas` – data manipulation
-- `requests` – HTTP requests to CoinGecko
-- `plotly` – interactive visualisation
-- `plotly.subplots` – for multi‑panel charts
+    - `pandas` – data manipulation
+    - `requests` – HTTP requests to CoinGecko
+    - `plotly` – interactive visualisation
+    - `plotly.subplots` – for multi‑panel charts
 
 ## Features
 
