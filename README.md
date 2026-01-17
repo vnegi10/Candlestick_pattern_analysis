@@ -15,10 +15,11 @@ The notebook demonstrates how to:
 3. Visualize the data and indicators using Plotly candlestick charts with multiple sub‑plots
 
 The code is written in pure Python and relies on the following libraries:
-    * `pandas` – data manipulation
-    * `requests` – HTTP requests to CoinGecko
-    * `plotly` – interactive visualization
-    * `plotly.subplots` – for multi‑panel charts
+
+- `pandas` – data manipulation  
+- `requests` – HTTP requests to CoinGecko  
+- `plotly` – interactive visualization  
+- `plotly.subplots` – for multi-panel charts  
 
 ## Features
 
